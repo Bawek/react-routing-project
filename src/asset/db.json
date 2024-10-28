@@ -1,0 +1,32 @@
+{
+    "student":[
+
+        { "id":1,
+              "Phone":"0989131968",
+            "name":"Animaw Mekonnen Asres"
+
+
+        },
+        { "id":2,
+        "Phone":"0989131968",
+      "name":"Animaw Mekonnen Asres"
+
+
+  },    { "id":3,
+  "Phone":"0989131968",
+"name":"Animaw Mekonnen Asres"
+
+
+},    { "id":4,
+"Phone":"0989131968",
+"name":"Animaw Mekonnen Asres"
+
+
+},    { "id":5,
+"Phone":"0989131968",
+"name":"Animaw Mekonnen Asres"
+
+
+}
+    ]
+}
